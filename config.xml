@@ -1,0 +1,12 @@
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.simple.app" version="1.0.0">
+    <name>SimpleApp</name>
+    <description>Sample App</description>
+    <author email="test@example.com">Author</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="android-compileSdkVersion" value="34" />
+    <preference name="android-targetSdkVersion" value="34" />
+    <preference name="android-minSdkVersion" value="24" />
+</widget>
